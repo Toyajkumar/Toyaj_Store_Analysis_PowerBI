@@ -15,9 +15,9 @@ The **Toyaj Store Analysis** project utilizes Power BI to visualize and analyze 
 
 ## Contents
 
-- `Datasets/`: This folder contains the raw data files used for analysis.
-- `Reports/`: This folder contains Power BI report files (.pbix) with pre-built visualizations and analysis.
-- `Documentation/`: Additional documentation about data sources, methodologies, and insights.
+- `Store/`: This folder contains the raw data files used for analysis.
+- `Toyaj_Store_Analysis_PowerBI.pbix/`: This folder contains Power BI report files (.pbix) with pre-built visualizations and analysis.
+
 
 ## Getting Started
 
@@ -31,17 +31,9 @@ The **Toyaj Store Analysis** project utilizes Power BI to visualize and analyze 
 
 ![Dashboard](Toyaj_Store_Analysis_PowerBI.jpg)
 
-## Contributions
-
-Contributions and feedback are welcome! If you find issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For inquiries or questions, you can reach out to Toyaj Yadav at [your.email@example.com](mailto:your.email@example.com).
+For inquiries or questions, you can reach out to Toyaj Yadav at [Trjob955@gmail.com](mailto:trjob955@gmail.com).
 
 ---
 
