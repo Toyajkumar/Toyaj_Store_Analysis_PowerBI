@@ -29,7 +29,7 @@ The **Toyaj Store Analysis** project utilizes Power BI to visualize and analyze 
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Toyaj_Store_Analysis_PowerBI.jpg)
 
 ## Contributions
 
